@@ -4,13 +4,12 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![CSV](https://img.shields.io/badge/CSV-Data-C8860A?style=for-the-badge)
-![Level](https://img.shields.io/badge/Level-Beginner-22C55E?style=for-the-badge)
 ![Records](https://img.shields.io/badge/Records-1%2C094-0284C7?style=for-the-badge)
 ![Revenue](https://img.shields.io/badge/Revenue-$6.18M-3E1C00?style=for-the-badge)
 
-![Chocolate Sales Dashboard](Chocolate Sales Dashboard.jpeg)
+![Chocolate Sales Dashboard](Chocolate%20Sales%20Dashboard.jpeg)
 
-> **** — Data Analytics Portfolio · K.S. · Tool: Power BI Desktop
+> Data Analytics Portfolio · K.S. · Tool: Power BI Desktop
 
 ---
 
